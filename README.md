@@ -57,4 +57,5 @@ The main findings of this study can be found in [here](https://medium.com/@claud
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 I would like to give credit to Starbucks for the database used for this study and to Udacity for all the code techniques learning through the Data Science program. 
+Also, I will leave here another sources used for this projects: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.boxplot.html, #https://stackoverflow.com/questions/66940757/pandas-list-in-column-to-binary-column, #https://stackoverflow.com/questions/35711059/extract-dictionary-value-from-column-in-data-frame, #source:https://www.datacamp.com/tutorial/understanding-logistic-regression-python. 
 Feel free to use my code and maybe take a look at the blog post mentioned above. 
